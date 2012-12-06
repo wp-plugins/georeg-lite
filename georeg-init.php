@@ -2,9 +2,9 @@
 /*
 Plugin Name: GeoReg Lite
 Plugin URI: http://marketplace.appthemes.com/plugins/georeg/
-Description: A plugin that transparently captures detailed geographic information when a new user registers.
+Description: A plugin that captures the IP address, country name, and country code of new users who register on your site. A full-blown <a href="http://marketplace.appthemes.com/plugins/georeg/" target="_blank">GeoReg plugin</a> is available in the <a href="http://marketplace.appthemes.com/" target="_blank">AppThemes Marketplace</a>.
 Version: 1.0
-Author: appthemes
+Author: AppThemes
 Author URI: http://www.appthemes.com
 */
 
