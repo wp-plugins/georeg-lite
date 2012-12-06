@@ -1,6 +1,6 @@
 === GeoReg Lite ===
 Contributors: appthemes, dcowgill
-Tags: geoIP registration, maxmind, geoIP, geographic information
+Tags: geoIP registration, geolocation, user ip address, user country, maxmind, geoIP, geographic information
 Requires at least: 3.1
 Tested up to: 3.5
 Stable tag: 1.0
@@ -47,6 +47,9 @@ In the search field type 'GeoReg' and click 'Search Plugins'. After you've found
 == Screenshots ==
 
 1. Capture the IP address, country name, and country code when a new user registers.
+2. View your WordPress users and see which countries are the most popular.
+3. The geographic data is even visible while editing a user.
+
 
 
 == Changelog ==
